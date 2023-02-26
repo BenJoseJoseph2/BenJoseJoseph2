@@ -12,11 +12,12 @@ I am working hard to enhance my skills on HTML5,CSS3,BOOTSTRAP,JAVASCRIPT,MONGOD
 I am interested in working with new technologies and developing new skills that make the world .
 
 
-![Visitor Count](https://profile-counter.glitch.me/BenJoseJoseph2/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BenJoseJoseph&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
   </a>
 </div>
 Languages and Tools:
