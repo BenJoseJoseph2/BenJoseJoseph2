@@ -9,6 +9,8 @@ I'm
 Pursuing My path to become a 
 FULL STACK WEB DEVELOPER(MERN STACK)
 I am working hard to enhance my skills on HTML5,CSS3,BOOTSTRAP,JAVASCRIPT,MONGODB,EXPRESS,NODEJS ,REACT.
+I am interested in working with new technologies and developing new skills that make the world .
+
 
 ![Visitor Count](https://profile-counter.glitch.me/BenJoseJoseph2/count.svg)
 <div>
